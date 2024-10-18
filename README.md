@@ -1,4 +1,10 @@
 # Estudo de comando NASM
+
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReA0GB6oj4q0hWEIK1ujzZXMOemOz1l-gPQQ&s" width=100 height=100>
+
+</p>
+
 ## primeiros comandos
 
 * Programa hello word
